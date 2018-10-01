@@ -2,6 +2,6 @@ package sam
 
 import "fmt"
 
-func sayHello() {
+func SayHello() {
 	fmt.Printl("Hello world by sam")	
 }
